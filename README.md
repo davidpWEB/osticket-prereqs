@@ -321,6 +321,22 @@ Finalize the initial osTicket setup by providing basic configuration details thr
 > 📝 These details will be used to access and manage your osTicket helpdesk system.
 
 
+### Step 15: Complete osTicket Installation
+
+**Purpose:**  
+Finish setting up osTicket by connecting it to the MySQL database and finalizing the install.
+
+**Instructions:**
+1. In the osTicket web installer, enter the following database details:
+   - **MySQL Database:** `osTicket`
+   - **MySQL Username:** `root`
+   - **Password:** `root`
+2. Click **"Install Now"** to begin the installation process.
+3. Upon successful installation, you'll be redirected to:
+   - **Admin Panel:** `http://localhost/osTicket/scp/login.php`
+   - **End-User Portal:** `http://localhost/osTicket/`
+
+> 🚀 You're now ready to log in and begin using your osTicket helpdesk!
 
 
 <br />
