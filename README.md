@@ -320,6 +320,7 @@ Finalize the initial osTicket setup by providing basic configuration details thr
 
 > 📝 These details will be used to access and manage your osTicket helpdesk system.
 
+<img width="598" height="244" alt="image" src="https://github.com/user-attachments/assets/f779d748-e400-4a85-8874-1f00b7ac63c9" />
 
 ### Step 15: Complete osTicket Installation
 
